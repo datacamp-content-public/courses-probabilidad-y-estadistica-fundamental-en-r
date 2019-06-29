@@ -41,3 +41,46 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: d920164d58
+xp: 100
+```
+
+Cree una función que realice la suma de un vectore de datos. 		
+
+`@instructions`
+Realizarlo por medio de la función function
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+###########
+funcion<-function{
+  
+}
+```
+
+`@solution`
+```{r}
+funcion<-function(x){
+  sum(x)
+}
+```
+
+`@sct`
+```{r}
+
+```
